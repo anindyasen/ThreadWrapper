@@ -1,0 +1,4 @@
+#compile the code with the following command
+
+g++ -std=c++11 -lboost_system  -lboost_thread main.cpp
+
